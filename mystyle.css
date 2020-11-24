@@ -1,7 +1,52 @@
 body {
-background-color: lightblue;
+background-color: #4c5557;
 }
 h1 {
-color: navy;
+color: white;
 margin-left: 20px
+}
+h1 {
+  text-shadow: 2px 2px;
+  color: black;
+}
+p1 {
+  color: #f7bcff;
+  margin-left: 30px
+}
+p2 {
+  color: #ff8496;
+  margin-left: 20px
+}
+#career {
+padding: 10px;
+border: 5px solid #e5ecee;
+background: #222b2e;
+width: 100px;
+margin-left: 20px
+}
+p3 {
+  color: #84c0ff;
+  margin-left: 30px
+}
+p4 {
+  color: #5cff8f;
+  margin-left: 20px
+}
+#siblings {
+padding: 10px;
+border: 5px solid #0094ff;
+background: #dcd5dd;
+width: 100px;
+margin-left: 20px
+}
+h2 {
+color: #ffb896;
+margin-left: 20px
+}
+#rcorners2 {
+  border-radius: 25px;
+  border: 5px solid #ff8bc5;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
 }
